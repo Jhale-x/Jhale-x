@@ -12,6 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: Jhale-x
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Lima
