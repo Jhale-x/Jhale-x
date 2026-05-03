@@ -1,49 +1,109 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Alejandro Maldonado</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;System+Builder;Always+Learning+New+Things" />
+</p>
+
+<h3 align="center">💻 Backend Developer | System Design | Laravel & Java</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 Software Engineering student from Peru 🇵🇪  
+- 💻 Focused on **backend development and scalable systems**  
+- 🧠 I work with layered architecture (Presentation, Business, Data)  
+- ⚡ I enjoy building real-world solutions, not just practice projects  
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,js,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+<!-- 📊 GitHub Stats -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhale-x&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Jhale-x&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhale-x&layout=compact&theme=tokyonight" height="180"/>
+</p>
+<!-- 🏆 GitHub Trophy -->
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Jhale-x&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
+    alt="GitHub Trophies"
+  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🚀 Featured Projects
 
-###
+### 🔹 Laravel Agent System
+👉 https://github.com/Jhale-x/Proyecto-laravel-Agente-Multired  
 
-<br clear="both">
+- System for managing agents and operations  
+- Built with **Laravel + MySQL**  
+- Includes authentication, data handling and structured backend logic  
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🔹 Next Level Academic System
+👉 https://github.com/Jhale-x/Proyect-Next-level  
+
+- Academic platform with messaging and course management  
+- Features:
+  - 📚 Course & classroom handling  
+  - 💬 Messaging system (private & group)  
+  - 📅 Activity scheduling  
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhale-x&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jhale-x/Jhale-x/output/snake.svg" />
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhale-x&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhale-x&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhale-x&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jhale-x/Jhale-x/main/github-metrics.svg" />
+</p>
+---
+
+## ⚡ Fun Fact
+I don't just code... I build systems that solve real problems 🚀
