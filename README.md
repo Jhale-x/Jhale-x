@@ -82,7 +82,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jhale-x/Jhale-x/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jhale-x/Jhale-x/output/snake-dark.svg" />
 </p>
 
 ---
